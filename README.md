@@ -1,4 +1,4 @@
 Aggregator
 ==========
 
-rome rss aggregator ejb
+rome rss aggregator
